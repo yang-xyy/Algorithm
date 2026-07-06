@@ -1,12 +1,12 @@
-一.优点
-1.全局寻优能力强，不易陷入局部最优
-2.适用范围极广，无严格函数约束
-3.逻辑简单、易实现、参数少
-4.鲁棒性好，初值不敏感
+一.Advantages
+1.Strong global optimization ability and not easy to fall into local optima
+2.Extremely wide range of applications with no strict function constraints
+3.Simple logic, easy to implement and few parameters
+4.Good robustness and insensitive to initial values
 
-二.缺点
-1.收敛速度慢，计算成本高
-2.参数敏感，调参依赖经验
-3.高维问题搜索效率暴跌
-4.后期收敛精度不足
-5.并行天然不友好
+二.Disadvantages
+1.Slow convergence speed and computational high cost
+2.Sensitive to parameters and parameter tuning depends on experience
+3.Search efficiency drops sharply for high - dimensional problems
+4.Insufficient convergence accuracy in the later stage
+5.Not naturally friendly to parallel computing
