@@ -1,0 +1,9 @@
+Summarize pros and cons of PA w.r.t. SA:
+pros:
+1.Faster convergence (in the same time)
+2.Naturally friendly to parallel computing
+3.Strong global optimization ability
+
+cons:
+1.There are many hyperparameters, and the cost of parameter tuning is high
+2.High memory consumption
