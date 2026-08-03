@@ -10,3 +10,6 @@
 3.Search efficiency drops sharply for high - dimensional problems
 4.Insufficient convergence accuracy in the later stage
 5.Not naturally friendly to parallel computing
+
+三.literature
+https://www2.stat.duke.edu/~scs/Courses/Stat376/Papers/TemperAnneal/AnnealStatSci1993.pdf
